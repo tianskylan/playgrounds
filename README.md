@@ -1,2 +1,2 @@
 # playgrounds
-A collection of playgrounds
+A collection of swift playgrounds
